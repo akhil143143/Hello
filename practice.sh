@@ -1,5 +1,6 @@
 #!/bin/bash
+$i = Akhil
 for i in 1 . . 5
 do 
-  echo "HI Akhil"
+  echo "Hi $i"
 done
